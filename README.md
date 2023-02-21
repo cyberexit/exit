@@ -15,6 +15,6 @@ rm -rf FB-Brute
 git clone https://github.com/cyberexit/fb
 pip install requests
 pip install mechanize
-cd FB-Brute
+cd fb
 python brute.py
 ```
