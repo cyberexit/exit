@@ -12,7 +12,7 @@ pkg install git
 pkg install ruby
 gem install lolcat
 rm -rf FB-Brute
-git clone https://github.com/STLP-TEAM/FB-Brute
+git clone https://github.com/cyberexit/fb
 pip install requests
 pip install mechanize
 cd FB-Brute
